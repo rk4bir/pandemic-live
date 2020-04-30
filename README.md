@@ -6,7 +6,8 @@
 
 ## Features
 * World Data
-* Country Data (Traces country from IP)
+* Country Data
+* Country Search
 
 ## Review
 [Review of the app](https://www.youtube.com/watch?v=lEmWeVygv-k)
