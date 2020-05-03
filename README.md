@@ -16,8 +16,8 @@
 
 
 ## Review
-* [Review of **V1.0.0**](https://www.youtube.com/watch?v=lEmWeVygv-k)
-* [Review of **V1.0.1**](https://youtu.be/jIMlt_Z3GgI)
+* [Review of **V1.0.0**](https://www.youtube.com/watch?v=lEmWeVygv-k) (YouTube Video)
+* [Review of **V1.0.1**](https://youtu.be/jIMlt_Z3GgI) (YouTube Video)
 
 
 ## Download
