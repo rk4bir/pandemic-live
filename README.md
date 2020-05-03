@@ -31,7 +31,7 @@
 
 
 ## Privacy
-* [Privacy](privace.md)
+* [Privacy](privacy.md)
 
 
 ## Run the project locally
