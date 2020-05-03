@@ -2,7 +2,7 @@
 >covid19 is a free application, aimed to provide "COVID-19" pandemic update. It shows global and country wise update along with analytical chart/graph and data table in real time. This app fetch data from ['mathdroid covid19-api'](https://github.com/mathdroid/covid-19-api) and [covid19api.com](https://covid19api.com/). They both serve JSON data from John Hopkins University CSSE.
 
 ## Logo
-![logo](logo.png)
+![logo](/assets/images/web_hi_res_512.png)
 
 ## Features
 * World Data
