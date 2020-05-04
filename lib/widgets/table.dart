@@ -89,7 +89,7 @@ class PandemicDataTable extends StatelessWidget {
                     alignment: Alignment.center,
                     padding: EdgeInsets.all(10),
                     color: Colors.red[200],
-                    child: Text(makeCommaSeperatedNumber(data[i]['Recovered']), textAlign: TextAlign.center),
+                    child: Text(makeCommaSeperatedNumber(data[i]['deaths']), textAlign: TextAlign.center),
                   ),
                 ),
                 TableCell(

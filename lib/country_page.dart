@@ -136,7 +136,7 @@ class _CountryPageState extends State<CountryPage> {
                   _buildSeperatorLine(context),
                   _buildBarDailyBarChart(context, futureCovidCountryDailyRecoveredData, Colors.green, "Daily Recovered"),
                   _buildSeperatorLine(context),
-                  _buildBarDailyBarChart(context, futureCovidCountryDailyRecoveredData, Colors.red, "Daily Deaths"),
+                  _buildBarDailyBarChart(context, futureCovidCountryDailyDeathsData, Colors.red, "Daily Deaths"),
 
                   // daily data summary
                   SizedBox(height: 30,),
